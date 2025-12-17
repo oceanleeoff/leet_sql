@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/oceanleeoff/leet_sql/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/oceanleeoff/leet_sql/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/oceanleeoff/leet_sql/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/oceanleeoff/leet_sql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
